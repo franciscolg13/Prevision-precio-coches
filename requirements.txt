@@ -1,2 +1,2 @@
 joblib
-skicit-learn==1.2.2
+scikit-learn
